@@ -8,6 +8,8 @@ public class StepbyStep {
 			
 			System.out.println(i);
 		}
+		
+		System.out.println("Tes purpose git");
 	}
 
 }
